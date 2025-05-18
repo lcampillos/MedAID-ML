@@ -89,6 +89,10 @@ We downloaded public assessment reports (EPARs) from 12 new medicinal products, 
 
 Since EPARs are translated into all EU languages, we collected parallel data in English, Spanish, French and German.
 
+### Cochrane
+
+[Cochrane](https://www.cochrane.org/) is a database of meta-analyses and systematic reviews of updated results of clinical studies. We used abstracts of systematic reviews in all four languages. 
+
 ## 🔗&nbsp;&nbsp;Citation
 
 ```
