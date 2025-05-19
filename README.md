@@ -13,9 +13,11 @@ The original paper introduces MedAID-ML, which is a multilignual dataset of biom
 Large Language Models (LLMs): mistral-7b, Llama3.1 and GPT-4o.
 
 We conducted several baseline experiments as well as an XAI analysis. This repository contains the code for our experiments. For the dataset,
-please refer to *Digital CSIC* or *TU Wien Research Data*.
+please refer to our institutional repositories.
 
 Regarding questions, feel free to reach out to the authors of the paper!
+
+![image](https://github.com/user-attachments/assets/2dc6c87a-104e-4d40-ab71-5467ced7edef)
 
 ## 📊&nbsp;&nbsp;Data Sources
 
