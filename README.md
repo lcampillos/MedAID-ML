@@ -103,7 +103,7 @@ Styll, P., L. Campillos-Llanos, J. Fernández-García, and I. Segura-Bédmar (20
 @inproceedings{styllclef2025,
   title={{MedAID-ML: A Multilingual Dataset of Biomedical Texts for Detecting AI-Generated Content}},
   author={Styll, Patrick and Campillos-Llanos, Leonardo and Fern{\'\a}ndez-Garc{\'\i}a, Jorge and Segura-B{\'\e}dmar, Isabel},
-  journal={Proceedings of the Sixteenth International Conference of the CLEF Association (CLEF 2025)},
+  booktitle={Proceedings of the Sixteenth International Conference of the CLEF Association (CLEF 2025)},
   location={UNED University, Madrid, Spain},
   month={September},
   day={9-12},
