@@ -97,6 +97,16 @@ Since EPARs are translated into all EU languages, we collected parallel data in 
 
 ## 🔗&nbsp;&nbsp;Citation
 
+Styll, P., L. Campillos-Llanos, J. Fernández-García, and I. Segura-Bédmar (2025) "MedAID-ML: A Multilingual Dataset of Biomedical Texts for Detecting AI-Generated Content". In J. Carrillo-de-Albornoz et al. (Eds), *Proceedings of the Sixteenth International Conference of the CLEF Association (CLEF 2025)*, UNED University, Madrid, Spain, 9-12 September 2025, pp. 223-244. (Accepted, publishing in progress)
+
 ```
-TBA
+@inproceedings{styllclef2025,
+  title={{MedAID-ML: A Multilingual Dataset of Biomedical Texts for Detecting AI-Generated Content}},
+  author={Styll, Patrick and Campillos-Llanos, Leonardo and Fern{\'\a}ndez-Garc{\'\i}a, Jorge and Segura-B{\'\e}dmar, Isabel},
+  journal={Proceedings of the Sixteenth International Conference of the CLEF Association (CLEF 2025)},
+  location={UNED University, Madrid, Spain},
+  month={September},
+  day={9-12},
+  year={2025}
+}
 ```  
